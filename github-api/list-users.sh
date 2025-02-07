@@ -1,4 +1,11 @@
 #!/bin/bash
+##############
+# About: This is a Shell Script to list users in a github repositpry via GitHub API Integration.
+# Input parameter: Export your username --- Export you user token
+# Owner: Adebola Adesanya
+#
+#
+###############
 
 # GitHub API URL
 API_URL="https://api.github.com"
